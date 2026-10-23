@@ -66,7 +66,7 @@ Every action of the Hands is written to a tamper-evident log on your computer (e
 
 Get it from the [latest release](https://github.com/ArboRithm/Daimon/releases/latest). The macOS build is signed and notarized by Apple.
 
-The Windows installers are not Authenticode-signed, so SmartScreen may warn you: click **More info**, then **Run anyway**. Windows ARM64 support is a preview: it has not yet been tested on a real ARM machine.
+The Windows installers are Authenticode-signed (publisher ArboRithm). If SmartScreen still warns you, click **More info**, then **Run anyway**. Windows ARM64 support is a preview: it has not yet been tested on a real ARM machine.
 
 ## Getting started
 
