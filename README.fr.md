@@ -66,7 +66,7 @@ Chaque action des Mains est inscrite, sur votre ordinateur, dans un journal dont
 
 Il est dans la [dernière release](https://github.com/ArboRithm/Daimon/releases/latest). La version macOS est signée et notarisée par Apple.
 
-Les installateurs Windows ne sont pas signés Authenticode : SmartScreen peut donc afficher un avertissement — cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**. Le support de Windows ARM64 est une préversion : il n'a pas encore été testé sur une vraie machine ARM.
+Les installateurs Windows sont signés Authenticode (éditeur ArboRithm). Si SmartScreen affiche malgré tout un avertissement, cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**. Le support de Windows ARM64 est une préversion : il n'a pas encore été testé sur une vraie machine ARM.
 
 ## Prise en main
 
